@@ -36,7 +36,7 @@ button:hover {
 
 header {
   height: 100vh;
-  background-image: url(images/header_bg2.jpg);
+  background-image: url(Images/header_bg2.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -249,7 +249,7 @@ section:first-child, section:nth-child(even), .footer-nav {
 }
 
 .light {
-  background-image: url(images/lighting.jpg);
+  background-image: url(Images/lighting.jpg);
   background-position: top;
   color: white;
 }
@@ -259,7 +259,7 @@ section:first-child, section:nth-child(even), .footer-nav {
 }
 
 .audio {
-  background-image: url(images/audio.jpg);
+  background-image: url(Images/audio.jpg);
   display: flex;
   flex-direction: column;
   align-items: flex-end;
@@ -267,7 +267,7 @@ section:first-child, section:nth-child(even), .footer-nav {
 }
 
 .new {
-  background-image: url(images/newarr.jpg);
+  background-image: url(Images/newarr.jpg);
 }
 
 /* ________________PRODUCTS________________________ */
